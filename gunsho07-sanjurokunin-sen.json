@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sanjurokunin-sen",
  "yomi": "さんじゅうろくにんせん",
  "category": "私撰集",
- "description": null,
+ "description": {
+  "kind": "秀歌撰",
+  "era": "平安中期",
+  "author": "撰者 藤原公任",
+  "desc": "いわゆる三十六歌仙のもとになった秀歌撰。人麿・貫之・躬恒・伊勢・兼盛・中務の6人は10首、ほかの30人は3首ずつを選び、二人ずつ番えるように並べる。"
+ },
  "editions": [
   {
    "pid": "1879496",
@@ -1677,6 +1682,6 @@
   "poems": 146,
   "editions": 1,
   "updated": "2026-10-29",
-  "updated_at": "2026-10-29T23:37:59+09:00"
+  "updated_at": "2026-10-29T23:55:04+09:00"
  }
 }
